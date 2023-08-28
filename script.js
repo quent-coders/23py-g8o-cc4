@@ -58,28 +58,28 @@ const projects = ['project name - Rock-Paper-Scissors (backend)',
                     'project difficulty - 4/10',
                     'topics knowlenge required - 25+',
                     'project time est. - 4+ hrs',
-                    'implementation - PyGame built-ins',
+                    'implementation - PyGame built-in functions',
                     'status - complete (3/3 stages)',
 
                     'project name - Dungeon (PyGame)',
                     'project difficulty - 6/10',
                     'topics knowlenge required - 25+',
                     'project time est. - 7+ hrs',
-                    'implementation - PyGame + self functions',
+                    'implementation - PyGame w/ custom functions',
                     'status - complete (6/6 stages)',
 
                     'project name - Space Wars (PyGame)',
                     'project difficulty - 7/10',
                     'topics knowlenge required - 25+',
                     'project time est. - 8+ hrs',
-                    'implementation - PyGame + self functions',
+                    'implementation - PyGame w/ custom functions',
                     'status - complete (6/6 stages)',
 
                     'project name - Score Mining (PyGame)',
                     'project difficulty - 9/10',
                     'topics knowlenge required - 25+',
                     'project time est. - 10+ hrs',
-                    'implementation - PyGame + self functions',
+                    'implementation - PyGame w/ custom functions',
                     'status - complete (7/7 stages)'
                 ]
          
